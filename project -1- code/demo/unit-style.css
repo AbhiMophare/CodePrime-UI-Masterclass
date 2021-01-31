@@ -1,0 +1,26 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    background-color: green;
+    border: 1px blue solid;      
+}
+
+.green {
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+#id-blue {
+    background-color:blue;
+
+.content {
+    background-color: red;
+    height: 20vh;
+}

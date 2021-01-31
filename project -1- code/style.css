@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+.top-container {
+    width: 80%;
+    margin: auto;
+}
+.main {
+    display: inline-block;
+    width: 75%;    
+}
+.side-right {
+    display: inline-block;
+    float: right;
+    width: 25%;
+    margin-top: 70px;
+    padding:20px;
+}
+.side-right > h3{
+    padding-left: 20px;
+}
+.bottom {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    line-height: 1.5;
+    margin: 20px;
+    text-align: justify;
+}
+.htm-img {
+    float: left;
+    width: 150px;
+    margin: 0px 20px;
+}
+.article-header {
+    margin: 20px; 
+}
+h2 {
+    clear: both;
+    margin: 20px;
+}
+ul {
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    line-height: 2;
+}
+.bottom-container {
+    width: 80%;
+    margin: auto;
+}
+.img-kid {
+    display: inline-block;
+    float: left;
+    margin-left: 40px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}
+.info {
+    display: inline-block;
+    margin-left: 40px;
+    height: 100px;
+}
+ion-icon {
+    display: inline-block;
+}
+.home > p {
+    display: inline-block;
+    margin: 0px;
+}
+.call > p {
+    display: inline-block;
+    margin: 0px;
+}
+.name > h3{
+    margin: 0px;
+}
+ul {
+    margin-top: 0px;
+}
+hr {
+    margin-bottom: 20px;
+}
